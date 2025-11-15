@@ -23,7 +23,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45" />
 </p>
-
-<h2> 🚀 &nbsp;Stats</h2>
-
-![Snake animation](https://github.com/alaa-mkbs/alaa-mkbs/blob/output/github-contribution-grid-snake.svg)

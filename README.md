@@ -26,4 +26,4 @@
 
 <h2> 🚀 &nbsp;Stats</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alaa-mkbs/alaa-mkbs/blob/output/github-contribution-grid-snake.svg)
